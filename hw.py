@@ -1,2 +1,2 @@
 $ vi hw.py
-print ("Hello World!")
+print ("Hi, World!")
